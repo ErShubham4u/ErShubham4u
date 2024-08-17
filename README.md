@@ -1,10 +1,10 @@
-![GitHub Banner](https://github.com/user-attachments/assets/9e1457ad-60ca-4771-99ae-595a2193ae8f)
+![GitHub Banner](https://github.com/user-attachments/assets/808c367e-d792-46f8-8f2d-3e36383b379c)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center"><img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="hello!" width="7%" />, I'm Shubham!</h1>
 <h3 align="center">A Passionate and Dedicated Software Engineer.</h3>
 <p align="center">With a strong foundation in responsive web design and hands-on experience in developing dynamic, <br> user-friendly web applications, I thrive on tackling complex problems and turning ideas into reality. <br> My journey into tech is driven by curiosity and a commitment to continuous learning. <br> My background equips me with a unique perspective on problem-solving and innovation.</p>
-<p align="center">INTJ | Architect | Strengthfinder Qualities: Focus, Deliberative, Learning, and Belief. <br>Book Reader, Export-Import Enthusiast, Agriculture Advocate, Real Estate Enthusiast, Investment Aficionado, Finance Buff.</p>
+<p align="center">INTJ | Architect | Strengthfinder Qualities: Focus, Deliberative, Learning, and Belief. <br>Book Reader, Export-Import Enthusiast, Agri Advocate, Real Estate Enthusiast, Investment Aficionado, Finance Buff.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ErShubham4u&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="18%" /> </p>
 
