@@ -1,4 +1,4 @@
-![1732487726622](https://github.com/user-attachments/assets/7d7aa90e-1260-4872-a44a-568c497ec9f4) 
+![1732487726622](https://github.com/user-attachments/assets/7d7aa90e-1260-4872-a44a-568c497ec9f4)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center"><img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="hello!" width="7%" />, I'm Shubham!</h1>
